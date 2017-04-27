@@ -17,7 +17,7 @@ public class FBShareScreenShotTest : MonoBehaviour {
 			new Uri("https://play.google.com/store/apps/developer?id=Jason%20Ledesma&hl=en"),
 			"Rebisco",
 			"Lets have a great adventure.",
-			new Uri("https://goo.gl/dKg8aj"),
+			new Uri("http://immersivemedia.ph/rebiscodb/Artifact/Artifact_Jar.jpg"),
 			callback: ShareCallback);
 	}
 
