@@ -9,12 +9,12 @@ Distribution Amazon Store: https://goo.gl/RUp1Od </br>
 Distribution Windows Store: https://goo.gl/rCxsH6   (No Direct link to Dev Page) </br>
 Distribution WearVR: https://goo.gl/y0X1nR  (No Direct link to Dev Page) </br>
 
---More Information and Demo Videos
-Facebook: https://goo.gl/vvDSIL
-Linkedin: https://goo.gl/c9Fh6n
-YouTube: https://goo.gl/BFZ7C5
-StackOverFlow: https://goo.gl/J1hFqL
-Github: https://goo.gl/jPHFPe
+--More Information and Demo Videos </br>
+Facebook: https://goo.gl/vvDSIL </br>
+Linkedin: https://goo.gl/c9Fh6n </br>
+YouTube: https://goo.gl/BFZ7C5 </br>
+StackOverFlow: https://goo.gl/J1hFqL </br>
+Github: https://goo.gl/jPHFPe </br>
 
 
 
