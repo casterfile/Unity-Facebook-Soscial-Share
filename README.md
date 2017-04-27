@@ -1,6 +1,10 @@
 # Unity-Facebook-Soscial-Share
 Developer: Anthony A. Castor
 
+Software Requirment 
+facebook-unity-sdk-7.9.0
+Unity 5.6
+
 --Online Portfolio </br>
 Distribution itch(Web and Desktop): https://goo.gl/Wq1nuD </br>
 Distribution Google Play: https://goo.gl/uKIIr4 </br>
@@ -28,3 +32,35 @@ This application is free of virus or malware </br>
 Functions </br>
 Facebook Login </br>
 Facebook Share </br>
+
+
+#Source Code
+
+public class FBShareScreenShotTest : MonoBehaviour {
+
+	public void ShareScreenShot(){
+		Debug.Log ("SHARE");
+		//ShareScoreOnFB();
+		FB.ShareLink(
+			new Uri("https://play.google.com/store/apps/developer?id=Jason%20Ledesma&hl=en"),
+			"Rebisco",
+			"Lets have a great adventure.",
+			new Uri("http://immersivemedia.ph/rebiscodb/Artifact/Artifact_Jar.jpg"),
+			callback: ShareCallback);
+	}
+
+
+	private void ShareCallback (IShareResult result) {
+		if (result.Cancelled || !String.IsNullOrEmpty(result.Error)) {
+			Debug.Log("ShareLink Error: "+result.Error);
+		} else if (!String.IsNullOrEmpty(result.PostId)) {
+			// Print post identifier of the shared content
+			Debug.Log(result.PostId);
+		} else {
+			// Share succeeded without postID
+			Debug.Log("ShareLink success!");
+
+		}
+	}
+
+}
