@@ -18,13 +18,13 @@ Github: https://goo.gl/jPHFPe </br>
 
 
 
-This Source does not give any warranty please use at your own risk
+This Source does not give any warranty please use at your own risk </br>
 
-This is a demo application for people who want to implement a facebook login and facebook share inn their application.
+This is a demo application for people who want to implement a facebook login and facebook share in their application. </br>
 
-This application is free of virus or malware
+This application is free of virus or malware </br>
 
 
-Functions
-Facebook Login
-Facebook Share
+Functions </br>
+Facebook Login </br>
+Facebook Share </br>
