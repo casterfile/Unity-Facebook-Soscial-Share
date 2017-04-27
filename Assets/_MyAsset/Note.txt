@@ -1,0 +1,7 @@
+This Sample Application is created by Anthony Castor.
+This Application does not give any insurance.
+Use at your own rist.
+
+Software Requirment 
+facebook-unity-sdk-7.9.0
+Unity 5.6
