@@ -8,8 +8,8 @@ This is a demo application for people who want to implement a facebook login and
 This application is free of virus or malware </br>
 
 <h3>Software Requirment </h3>
-facebook-unity-sdk-7.9.0
-Unity 5.6
+facebook-unity-sdk-7.9.0<br/>
+Unity 5.6<br/>
 
 <h3>Online Portfolio</h3>
 Distribution itch(Web and Desktop): https://goo.gl/Wq1nuD </br>
