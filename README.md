@@ -1,13 +1,13 @@
 # Unity-Facebook-Soscial-Share
 Developer: Anthony A. Castor
 
---Online Portfolio
-Distribution itch(Web and Desktop): https://goo.gl/Wq1nuD
-Distribution Google Play: https://goo.gl/uKIIr4
-Distribution Itunes AppStore: https://goo.gl/54yJPi
-Distribution Amazon Store: https://goo.gl/RUp1Od
-Distribution Windows Store: https://goo.gl/rCxsH6   (No Direct link to Dev Page)
-Distribution WearVR: https://goo.gl/y0X1nR  (No Direct link to Dev Page)
+--Online Portfolio </br>
+Distribution itch(Web and Desktop): https://goo.gl/Wq1nuD </br>
+Distribution Google Play: https://goo.gl/uKIIr4 </br>
+Distribution Itunes AppStore: https://goo.gl/54yJPi </br>
+Distribution Amazon Store: https://goo.gl/RUp1Od </br>
+Distribution Windows Store: https://goo.gl/rCxsH6   (No Direct link to Dev Page) </br>
+Distribution WearVR: https://goo.gl/y0X1nR  (No Direct link to Dev Page) </br>
 
 --More Information and Demo Videos
 Facebook: https://goo.gl/vvDSIL
